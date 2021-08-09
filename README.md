@@ -1,6 +1,10 @@
 # dfrws2006-challenge
 The results of existing file carving tools typically contain many false positives. An investigator must test each of the extracted files by opening them in an application that supports the file type. The goal of the DFRWS 2006 Forensics Challenge was to design and develop file carving algorithms that identify more files and reduce the number of false positives.
 
+## The Winners
+
+First Place was awarded to Klayton Monroe, Andy Bair & Jay Smith.  Second place was awarded to [Simson Garfinkel](submissions/garfinkel-2006-challenge.zip).
+
 ## Challenge Data
 THE DATA SET for this challenge is a 50MB raw file. It has no file system, but it contains JPEG, ZIP, HTML, Text, and Microsoft Office files and fragments. The goal is to extract as many full JPEG, ZIP, HTML, Text, and Office files as possible from it. You can (and are encouraged to) develop tools to solve this challenge, but all source code must be released at the end of the challenge.
 
@@ -21,6 +25,10 @@ You must also describe how the files were extracted and tested. This includes:
 - A description of algorithms you developed for the challenge.
 - Working source code of tools you developed for the challenge.
 - How the number of false positives was reduced.
+
+## Image File Layout
+
+After the challenge was complete, the organizers released the [layout and content of the image file](file-image-layout.md).
 
 ## Challenge Organizers
 - Brian Carrier
