@@ -8,7 +8,7 @@ We thank everyone for the time they spent on this challenge and their willingnes
 
 First Place: Klayton Monroe, Andy Bair & Jay Smith
 
-Second Place: Simson Garfinkel
+Second Place: [Simson Garfinkel](submissions/garfinkel-2006-challenge.zip)
 
 ## The Runners-Up
 - Daniel Dickerman
