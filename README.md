@@ -8,7 +8,7 @@ First Place was awarded to Klayton Monroe, Andy Bair & Jay Smith.  Second place 
 ## Challenge Data
 THE DATA SET for this challenge is a 50MB raw file. It has no file system, but it contains JPEG, ZIP, HTML, Text, and Microsoft Office files and fragments. The goal is to extract as many full JPEG, ZIP, HTML, Text, and Office files as possible from it. You can (and are encouraged to) develop tools to solve this challenge, but all source code must be released at the end of the challenge.
 
-dfrws-2006-challenge.zip (ZIP of raw file, 41 MB)
+[dfrws-2006-challenge.zip](https://www.dropbox.com/s/genp058scvl8hbp/dfrws-2006-challenge.zip?dl=0) (ZIP of raw file, 41 MB)
 MD5 of raw file: bd09d612fc8b3f92662b98f9456f2ada
 
 ## Submission Information
