@@ -122,7 +122,7 @@ Start Sector | End Sector | Scenario | Description
 
 ## Individual File Information
 
-The information for each of the files can be found in the following table. The individual files are also available for download (35MB, ZIP file).
+The information for each of the files can be found in the following table. The [individual files are also available for download](https://www.dropbox.com/s/aqdsxy0juetbcym/dfrws-2006-challenge-files.zip?dl=0) (35MB, ZIP file).
 
 File Name	| MD5 Hash | Size (bytes)
 | --- | --- | --- |
