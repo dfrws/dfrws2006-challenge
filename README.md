@@ -10,6 +10,9 @@ THE DATA SET for this challenge is a 50MB raw file. It has no file system, but i
 
 [dfrws-2006-challenge.zip](https://www.dropbox.com/s/genp058scvl8hbp/dfrws-2006-challenge.zip?dl=0) (ZIP of raw file, 41 MB)
 MD5 of raw file: bd09d612fc8b3f92662b98f9456f2ada
+[dfrws-2006-challenge-files.zip](https://www.dropbox.com/s/aqdsxy0juetbcym/dfrws-2006-challenge-files.zip?dl=0) (ZIP of the individual files, 35 MB)
+MD5 of the ZIP file: 1643db3ae22b24501e0cfb9ea1461ca7
+SHA256 of the ZIP file: 5629d0ad5583bc2e51554a53d3d068c480fd81774bfccd73f3bf39ccbe13b8c8
 
 ## Submission Information
 To submit your results, you must document the following for each extracted file:
